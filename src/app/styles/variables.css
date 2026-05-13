@@ -13,12 +13,12 @@
   --background: #0a0a0a;
   --card: #1a1a1a;
   --foreground: #ffffff;
-  --primary-cta: #e34400;
+  --primary-cta: #1f7cff;
   --primary-cta-text: #ffffff;
   --secondary-cta: #010101;
   --secondary-cta-text: #ffffff;
-  --accent: #ff7b05;
-  --background-accent: #106efb;
+  --accent: #1f7cff;
+  --background-accent: #f96b2f;
 
   /* text sizing - set by ThemeProvider */
   /* --text-2xs: clamp(0.465rem, 0.62vw, 0.62rem);
