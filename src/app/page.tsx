@@ -63,7 +63,8 @@ export default function LandingPage() {
         variant: "plain",
       }}
       logoText="SKETSA SELARAS"
-      description="Crafting harmony between architectural vision and living interior aesthetics."
+      description="Menciptakan harmoni antara visi arsitektur dan estetika interior hunian anda.
+"
       buttons={[
         {
           text: "Explore Showroom",
@@ -74,7 +75,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/view-modern-futuristic-work-space-with-furniture_23-2151797717.jpg?_wi=1"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778638896868-ve5ttcfn.jpg"
       imageAlt="modern showroom interior design"
       mediaAnimation="slide-up"
     />
@@ -87,7 +88,7 @@ export default function LandingPage() {
       title="Design Philosophy"
       description="At Sketsa Selaras, we believe architecture isn't just about structures; it's about the life within them."
       subdescription="Our showroom curates exceptional pieces that bridge the gap between structural integrity and personal expression."
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-architect-hands-working-blueprints-design-pan-professional-drawing-architect-plans_482257-33046.jpg?_wi=1"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778639240408-hzup7g15.jpg"
       mediaAnimation="blur-reveal"
       icon={Building}
       imageAlt="interior architect studio"
@@ -100,9 +101,9 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "Spatial Concepting",
+          title: "Arsitektur",
           description: "Defining the flow and function of your luxury spaces.",
-          imageSrc: "http://img.b2bpic.net/free-photo/stacked-marble-limestone-wall-structure_53876-147660.jpg?_wi=1",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778638638793-rlsw3eax.jpg",
           imageAlt: "marble texture background",
         },
         {
@@ -114,7 +115,7 @@ export default function LandingPage() {
         {
           title: "Lighting & Ambience",
           description: "Expert curation of mood and light environments.",
-          imageSrc: "http://img.b2bpic.net/free-photo/low-angle-view-modern-ceiling_1359-959.jpg?_wi=1",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778641062830-a93vxnb9.png",
           imageAlt: "modern interior lighting",
         },
       ]}
@@ -132,44 +133,44 @@ export default function LandingPage() {
       products={[
         {
           id: "p1",
-          name: "Lumina Chair",
+          name: "Resort Hotel Sabda Alam - Garut",
           price: "IDR 4.5M",
-          imageSrc: "http://img.b2bpic.net/free-photo/minimalist-spacious-interior-design_23-2150378914.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778638773219-xhyrzz7d.jpg",
           imageAlt: "designer wood chair",
         },
         {
           id: "p2",
-          name: "Velvet Lounge",
+          name: "SMKN 10 GARUT",
           price: "IDR 12M",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-contemporary-living-room-interior-modern-furniture_1048-8654.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778638638793-rlsw3eax.jpg",
           imageAlt: "luxury leather sofa",
         },
         {
           id: "p3",
-          name: "Stone Centerpiece",
+          name: " PT.AGRO",
           price: "IDR 2.1M",
-          imageSrc: "http://img.b2bpic.net/free-photo/coffee-cake-table-with-dove_23-2151982932.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778638516476-uejkua3b.jpg",
           imageAlt: "minimalist coffee table",
         },
         {
           id: "p4",
-          name: "Modern Sconce",
+          name: "SABDA ALAM RESORT",
           price: "IDR 1.8M",
-          imageSrc: "http://img.b2bpic.net/free-photo/desk-lamp-with-minimalist-monochrome-background_23-2150763366.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778638711002-kbbiwsbn.jpg",
           imageAlt: "modern lamp design",
         },
         {
           id: "p5",
-          name: "Minimalist Shelf",
+          name: "MR.H.AMUD",
           price: "IDR 5.5M",
-          imageSrc: "http://img.b2bpic.net/free-photo/open-drawer-modern-kitchen-with-tile-wall-storage-design_169016-70960.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778640683835-jd7oll8j.png",
           imageAlt: "designer shelving unit",
         },
         {
           id: "p6",
-          name: "Ceramic Vase",
+          name: "MR.RENDRA",
           price: "IDR 850K",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-female-florist-using-her-mobile-phone_23-2148463276.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778640311322-jshs84xd.jpg",
           imageAlt: "designer home decor",
         },
       ]}
