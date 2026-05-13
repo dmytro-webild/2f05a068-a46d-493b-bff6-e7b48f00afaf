@@ -8,6 +8,7 @@ import Tag from "@/tag/Tag";
 import { getVisualEditScript } from "@/utils/visual-edit-script";
 import { DM_Sans } from "next/font/google";
 import { Inter_Tight } from "next/font/google";
+import { Manrope } from "next/font/google";
 
 
 
@@ -23,10 +24,10 @@ export const metadata: Metadata = {
 };
 
 
-const interTight = Inter_Tight({
-  variable: "--font-inter-tight",
+
+const manrope = Manrope({
+  variable: "--font-manrope",
   subsets: ["latin"],
-  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
 });
 
 export default function RootLayout({
@@ -37,7 +38,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <ServiceWrapper>
-        <body className={`${interTight.variable} antialiased`}>
+        <body className={`${manrope.variable} antialiased`}>
           <Tag />
           {children}
           <script
