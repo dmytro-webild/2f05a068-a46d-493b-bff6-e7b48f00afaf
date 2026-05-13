@@ -103,7 +103,7 @@ export default function LandingPage() {
         {
           title: "Arsitektur",
           description: "Defining the flow and function of your luxury spaces.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778638638793-rlsw3eax.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778641452618-e8m0pxlw.jpg",
           imageAlt: "marble texture background",
         },
         {
@@ -156,7 +156,7 @@ export default function LandingPage() {
           id: "p4",
           name: "SABDA ALAM RESORT",
           price: "IDR 1.8M",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778638711002-kbbiwsbn.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DeKQbmaCfXvLQQdM5NaxEIuI0Z/uploaded-1778641520502-gfmike09.png",
           imageAlt: "modern lamp design",
         },
         {
