@@ -74,7 +74,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/view-modern-futuristic-work-space-with-furniture_23-2151797717.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/view-modern-futuristic-work-space-with-furniture_23-2151797717.jpg?_wi=1"
       imageAlt="modern showroom interior design"
       mediaAnimation="slide-up"
     />
@@ -87,7 +87,7 @@ export default function LandingPage() {
       title="Design Philosophy"
       description="At Sketsa Selaras, we believe architecture isn't just about structures; it's about the life within them."
       subdescription="Our showroom curates exceptional pieces that bridge the gap between structural integrity and personal expression."
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-architect-hands-working-blueprints-design-pan-professional-drawing-architect-plans_482257-33046.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-architect-hands-working-blueprints-design-pan-professional-drawing-architect-plans_482257-33046.jpg?_wi=1"
       mediaAnimation="blur-reveal"
       icon={Building}
       imageAlt="interior architect studio"
@@ -102,19 +102,19 @@ export default function LandingPage() {
         {
           title: "Spatial Concepting",
           description: "Defining the flow and function of your luxury spaces.",
-          imageSrc: "http://img.b2bpic.net/free-photo/stacked-marble-limestone-wall-structure_53876-147660.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stacked-marble-limestone-wall-structure_53876-147660.jpg?_wi=1",
           imageAlt: "marble texture background",
         },
         {
           title: "Custom Interiors",
           description: "Tailored pieces to match your vision perfectly.",
-          imageSrc: "http://img.b2bpic.net/free-photo/elegance-luxury-modern-domestic-kitchen-generated-by-ai_188544-27840.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elegance-luxury-modern-domestic-kitchen-generated-by-ai_188544-27840.jpg?_wi=1",
           imageAlt: "wood furniture detail",
         },
         {
           title: "Lighting & Ambience",
           description: "Expert curation of mood and light environments.",
-          imageSrc: "http://img.b2bpic.net/free-photo/low-angle-view-modern-ceiling_1359-959.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/low-angle-view-modern-ceiling_1359-959.jpg?_wi=1",
           imageAlt: "modern interior lighting",
         },
       ]}
@@ -268,7 +268,7 @@ export default function LandingPage() {
           tag: "Design",
           avatarSrc: "http://img.b2bpic.net/free-photo/modern-living-room-interior-design_23-2150794700.jpg",
           avatarAlt: "happy home owner portrait",
-          imageSrc: "http://img.b2bpic.net/free-photo/view-modern-futuristic-work-space-with-furniture_23-2151797717.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-modern-futuristic-work-space-with-furniture_23-2151797717.jpg?_wi=2",
           imageAlt: "happy home owner portrait",
         },
         {
@@ -280,7 +280,7 @@ export default function LandingPage() {
           tag: "Commercial",
           avatarSrc: "http://img.b2bpic.net/free-photo/modern-dining-room-living-room-with-luxury-decor_105762-1672.jpg",
           avatarAlt: "modern interior design client",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-architect-hands-working-blueprints-design-pan-professional-drawing-architect-plans_482257-33046.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-architect-hands-working-blueprints-design-pan-professional-drawing-architect-plans_482257-33046.jpg?_wi=2",
           imageAlt: "happy home owner portrait",
         },
         {
@@ -292,7 +292,7 @@ export default function LandingPage() {
           tag: "Home",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-real-estate-agent-showing-house_23-2150225241.jpg",
           avatarAlt: "client home design",
-          imageSrc: "http://img.b2bpic.net/free-photo/stacked-marble-limestone-wall-structure_53876-147660.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stacked-marble-limestone-wall-structure_53876-147660.jpg?_wi=2",
           imageAlt: "happy home owner portrait",
         },
         {
@@ -304,7 +304,7 @@ export default function LandingPage() {
           tag: "Business",
           avatarSrc: "http://img.b2bpic.net/free-photo/real-estate-concept-image-cute-redhead-girl-looking-curious-paper-house-model-thinking-buyi_1258-161362.jpg",
           avatarAlt: "homeowner portrait design",
-          imageSrc: "http://img.b2bpic.net/free-photo/elegance-luxury-modern-domestic-kitchen-generated-by-ai_188544-27840.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elegance-luxury-modern-domestic-kitchen-generated-by-ai_188544-27840.jpg?_wi=2",
           imageAlt: "happy home owner portrait",
         },
         {
@@ -316,7 +316,7 @@ export default function LandingPage() {
           tag: "Architectural",
           avatarSrc: "http://img.b2bpic.net/free-photo/glad-positive-hipster-guy-dressed-casually-sits-table-waits-lunch-prepared-by-housewife-holds-digital-tablet_273609-8921.jpg",
           avatarAlt: "satisfied client home",
-          imageSrc: "http://img.b2bpic.net/free-photo/low-angle-view-modern-ceiling_1359-959.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/low-angle-view-modern-ceiling_1359-959.jpg?_wi=2",
           imageAlt: "happy home owner portrait",
         },
       ]}
